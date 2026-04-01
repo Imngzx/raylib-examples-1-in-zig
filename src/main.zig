@@ -9,11 +9,12 @@ pub fn main() !void {
 
     c.InitWindow(screenWidth, screenHeight, "yay");
 
+    defer c.CloseWindow();
+
     while (!c.WindowShouldClose()) {
         c.BeginDrawing();
         c.ClearBackground(c.SKYBLUE);
         c.DrawText("I finally read documentation", 190, 200, 20, c.LIGHTGRAY);
         c.EndDrawing();
     }
-    c.CloseWindow();
 }
