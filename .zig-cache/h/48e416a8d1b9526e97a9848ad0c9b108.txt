@@ -1,0 +1,5 @@
+0
+134620 28033 1774873599285253700 10e01341460994cc2731384fa3979a65 1 zig-pkg/raylib-5.6.0-dev-whq8uBlqKQXZXgOwjbOUc5vkxBffwqmTNUrWht5VyEfO/src/raylib.h
+22186 32350 1774873599286253700 8bd37a9193349046fe9462ddce9e59b0 1 zig-pkg/raylib-5.6.0-dev-whq8uBlqKQXZXgOwjbOUc5vkxBffwqmTNUrWht5VyEfO/src/rcamera.h
+90709 28034 1774873599286253700 d33f27a657db854d060822c3058d790b 1 zig-pkg/raylib-5.6.0-dev-whq8uBlqKQXZXgOwjbOUc5vkxBffwqmTNUrWht5VyEfO/src/raymath.h
+258200 32351 1774873599288253700 2f919853ac92517758aec3d4682afa08 1 zig-pkg/raylib-5.6.0-dev-whq8uBlqKQXZXgOwjbOUc5vkxBffwqmTNUrWht5VyEfO/src/rlgl.h
